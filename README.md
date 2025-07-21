@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, ich bin Immanuel
 
-<!--
-**kunkelimmanuel-arch/kunkelimmanuel-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein angehender Fachinformatiker aus der Nähe von Köln und aktuell auf der Suche nach einer Ausbildung im Bereich **Anwendungsentwicklung**, die im **September 2025** startet.
 
-Here are some ideas to get you started:
+Ich bringe mir Programmieren gerade selbst bei – mit viel Motivation, Neugier und kleinen Projekten, die ich hier auf GitHub teile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Was ich aktuell lerne
+
+- 💻 **HTML, CSS, JavaScript** – um Webseiten zu bauen  
+- 🐍 **Python** – für einfache Tools und Logikübungen  
+- 🔧 **Git & GitHub** – um meine Fortschritte zu dokumentieren  
+- 📚 **Selbstlernkurse** – z. B. über freeCodeCamp, Udemy und YouTube
+
+---
+
+## 🛠️ Eigene Projekte (in Arbeit)
+
+| Projekt               | Beschreibung                                      | Sprache      |
+|-----------------------|---------------------------------------------------|--------------|
+| 🧮 Rechner-App         | Einfache Rechenmaschine mit Python               | Python       |
+| 🌐 Portfolio-Webseite  | HTML/CSS-Webseite über mich & meine Projekte     | HTML / CSS   |
+| ✅ ToDo-Liste          | Interaktive Aufgabenliste im Browser             | JavaScript   |
+
+Ich arbeite ständig daran, meine Projekte zu verbessern und neue zu lernen.
+
+---
+
+## 🎯 Mein Ziel
+
+Bis Herbst 2025 möchte ich ein starkes Portfolio aufbauen, um meine Begeisterung für IT, Softwareentwicklung und kreatives Problemlösen zu zeigen –
+
+---
+
+## 📫 Kontakt
+
+- 📍 Michelstadt/Köln Umgebung  
+- ✉️ E-Mail: kunkel.immanuel@gmail.com  
+- 🔗 [Mein Profil auf GitHub](https://github.com/kunkelimmanuel-arch)  
+
+---
+
+> „Nicht Noten entscheiden, sondern was du draus machst.“
+
