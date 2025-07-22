@@ -1,6 +1,6 @@
 # 👋 Hi, ich bin Immanuel
 
-Ich bin ein angehender Fachinformatiker aus der Nähe von Köln und aktuell auf der Suche nach einer Ausbildung im Bereich **Anwendungsentwicklung**, die im **September 2025** startet.
+Ich bin ein angehender Fachinformatiker und aktuell auf der Suche nach einer Ausbildung im Bereich **Anwendungsentwicklung**, die im **September 2025** startet.
 
 Ich bringe mir Programmieren gerade selbst bei – mit viel Motivation, Neugier und kleinen Projekten, die ich hier auf GitHub teile.
 
